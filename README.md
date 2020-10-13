@@ -2,7 +2,7 @@
 
 https://ominiifood.netlify.app/
 
-## Food ordering app for clean eating enthusiast.
+# Food ordering app for clean eating enthusiasts.
 
 ## Task
 
